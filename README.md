@@ -1,2 +1,2 @@
-# hackekRankSolutions
+# hackerRankSolutions
 hacker rank solutions.
